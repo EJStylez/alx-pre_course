@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-ALX school
-=======
-ALX School
->>>>>>> 00af09e6dedb0abfcb5e7002d3b56b008cf36b37
+echo "The school is open!"
+
